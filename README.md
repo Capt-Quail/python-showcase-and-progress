@@ -1,9 +1,11 @@
-# python-showcase-and-progress
-This is a repository to display my Python learning journey, from basics to multi-file projects.
+The following programs were derived from my self-guided Python learning 
+journey while reading No Starch Press's "Python Crash Course." 
 
-My love for Python is deep and I will display programs that are most likely too basic to care
-about, but essential to my development. 
+I have completed part 1, which is understanding the basics/fundamentals, and
+I will now be moving on to the final part 2, major projects. In the meantime, 
+I would love to share a comprensive capture of my progress--you are no doubt 
+beyond this stage of learning, but hope it is appreciated nonetheless. 
 
-You will also be able to see more substantial and promising projects. Code will be organized 
-in folders, sorted by topic, in the main branch. Internal folder comprehensive, with 
-accompanying descriptive documentation as needed.
+In the proceeding sub-directories you will find a table of contents. Further 
+edits may be made to rename my programs to be relative to their repsective 
+lesson. 
