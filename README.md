@@ -9,3 +9,5 @@ beyond this stage of learning, but hope it is appreciated nonetheless.
 In the proceeding sub-directories you will find a table of contents. Further 
 edits may be made to rename my programs to be relative to their repsective 
 lesson. 
+
+My love for Python is deep, and I will display programs that are likely basic but essential to my development. 
